@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kevin
 - 👀 I’m interested in Data Entry and Data Analytics
 - 🌱 I’m currently learning SQL and Tableau 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email @kevinazmi35@gmail.com
 
 <!---
